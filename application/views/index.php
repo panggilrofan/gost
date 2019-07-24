@@ -257,8 +257,11 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <div class="section-title">
-                        <h2>Our Great <span>Works</span></h2>
-                        <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
+                        <h2>Our <span>Works</span></h2>
+                        <p>
+                            Karya yang telah kami kerjakan
+                        </p>
+                            
                     </div>
                 </div>
             </div>
