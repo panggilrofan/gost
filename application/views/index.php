@@ -2,6 +2,7 @@
 <html lang="en">
 
 <!-- Mirrored from html.ambidextrousbd.com/nioti/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 24 Jul 2019 17:32:17 GMT -->
+
 <head>
 
     <!-- meta -->
@@ -160,7 +161,7 @@
 
                 <!-- About Image -->
                 <div class="col-md-6 about-img">
-                    <img src="assets/img/about/about.png" alt="" >
+                    <img src="assets/img/about/about.png" alt="">
                 </div>
 
                 <!-- About Text -->
@@ -178,7 +179,7 @@
                         <i class="fa fa-chevron-right"></i><strong class="subtitle2"> Misi</strong>
                         <ul>
                             <li>Menjadi partner pelaku ekonomi kreatif.</li>
-                            <li>Memberikan kenyamanan bersama dalam hal kepakatan.</li> 
+                            <li>Memberikan kenyamanan bersama dalam hal kepakatan.</li>
                             <li>Berkualitas dan menggunakan teknologi terbaru.</li>
                         </ul>
                     </div>
@@ -212,12 +213,12 @@
                             <i class="fa fa-code"></i>
                             <h3 class="subtitle">Aplikasi Website</h3>
                             <p>
-                                Kami melayani jasa pembuatan website profil (pribadi, lembaga, instansi, perusahaan), 
+                                Kami melayani jasa pembuatan website profil (pribadi, lembaga, instansi, perusahaan),
                                 toko online dan segala sistem informasi dengan teknologi terbaru.
                             </p>
                         </div>
                     </div>
-                    
+
                     <!-- Service box -->
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="service-box">
@@ -260,7 +261,7 @@
                         <p>
                             Karya yang telah kami kerjakan
                         </p>
-                            
+
                     </div>
                 </div>
             </div>
@@ -288,9 +289,9 @@
                             <a href="assets/img/works/1.jpg" class="work-popup">
                                 <img src="assets/img/works/1.jpg" alt="">
                                 <div class="overlay">
-                                    <i class="fa fa-arrows-alt" aria-hidden="true"></i>
+                                    <a href="#"><i class="fa fa-link"></i></a>
                                 </div>
-                            </a>
+                                </i>
                         </div>
                     </div>
 
@@ -300,7 +301,7 @@
                             <a href="assets/img/works/2.jpg" class="work-popup">
                                 <img src="assets/img/works/2.jpg" alt="">
                                 <div class="overlay">
-                                    <i class="fa fa-arrows-alt" aria-hidden="true"></i>
+                                    <a href="#"><i class="fa fa-link"></i></a>
                                 </div>
                             </a>
                         </div>
@@ -312,7 +313,7 @@
                             <a href="assets/img/works/3.jpg" class="work-popup">
                                 <img src="assets/img/works/3.jpg" alt="">
                                 <div class="overlay">
-                                    <i class="fa fa-arrows-alt" aria-hidden="true"></i>
+                                    <a href="#"><i class="fa fa-link"></i></a>
                                 </div>
                             </a>
                         </div>
@@ -324,7 +325,7 @@
                             <a href="assets/img/works/4.jpg" class="work-popup">
                                 <img src="assets/img/works/4.jpg" alt="">
                                 <div class="overlay">
-                                    <i class="fa fa-arrows-alt" aria-hidden="true"></i>
+                                    <a href="#"><i class="fa fa-link"></i></a>
                                 </div>
                             </a>
                         </div>
@@ -336,7 +337,7 @@
                             <a href="assets/img/works/5.jpg" class="work-popup">
                                 <img src="assets/img/works/5.jpg" alt="">
                                 <div class="overlay">
-                                    <i class="fa fa-arrows-alt" aria-hidden="true"></i>
+                                    <a href="#"><i class="fa fa-link"></i></a>
                                 </div>
                             </a>
                         </div>
@@ -348,7 +349,7 @@
                             <a href="assets/img/works/6.jpg" class="work-popup">
                                 <img src="assets/img/works/6.jpg" alt="">
                                 <div class="overlay">
-                                    <i class="fa fa-arrows-alt" aria-hidden="true"></i>
+                                    <a href="#"><i class="fa fa-link"></i></a>
                                 </div>
                             </a>
                         </div>
@@ -488,7 +489,7 @@
                     <div class="contact-info">
                         <i class="fa fa-map-marker"></i>
                         <p>502, Sachber,<br>
-                        Berlin, Germany</p>
+                            Berlin, Germany</p>
                     </div>
                 </div>
                 <div class="col-sm-4 col-xs-12">
@@ -514,7 +515,7 @@
 
                         <form id="ajax-contact" action="http://html.ambidextrousbd.com/nioti/assets/mailer.php" method="post">
                             <div class="row">
-                                
+
                                 <div class="col-md-4">
                                     <div class="form-group in_name">
                                         <input type="text" name="name" class="form-control" id="name" placeholder="Full Name" required="required">
@@ -532,7 +533,7 @@
                                 </div>
 
                                 <div class="col-md-12">
-                                    <div class="form-group in_message"> 
+                                    <div class="form-group in_message">
                                         <textarea name="message" class="form-control" id="message" placeholder="Your Message" required="required"></textarea>
                                     </div>
                                     <div class="actions">
@@ -604,4 +605,5 @@
 
 
 <!-- Mirrored from html.ambidextrousbd.com/nioti/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 24 Jul 2019 17:33:24 GMT -->
+
 </html>
