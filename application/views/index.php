@@ -89,7 +89,6 @@
                                         <li><a class="smooth_scroll" href="#service">SERVICE</a></li>
                                         <li><a class="smooth_scroll" href="#work">PORTFOLIO</a></li>
                                         <li><a class="smooth_scroll" href="#team">TEAM</a></li>
-                                        <li><a class="smooth_scroll" href="#news">NEWS</a></li>
                                         <li><a class="smooth_scroll" href="#contact">CONTACT</a></li>
                                     </ul>
                                 </nav>
@@ -370,8 +369,7 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <div class="section-title">
-                        <h2>CLEVER TEAM <span>MEMBERS</span></h2>
-                        <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
+                        <h2>TEAM <span>MEMBERS</span></h2>
                     </div>
                 </div>
             </div>
@@ -409,387 +407,14 @@
                     </div>
                 </div>
 
-                <div class="col-md-3 col-sm-6">
-                    <div class="team-member">
-                        <div class="member-image">
-                            <img src="assets/img/team/member-2.png" alt="">
-                        </div>
-                        <div class="member-info">
-                            <h3 class="subtitle">ARON THOMAS</h3>
-                            <p class="text-muted">Managing Director</p>
-                            <div class="member-social">
-                                <a href="#"><i class="fa fa-rss"></i></a>
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-google-plus"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-hover">
-                            <h3 class="subtitle">ARON THOMAS</h3>
-                            <p class="text-muted">Managing Director</p>
-                            <div class="member-social">
-                                <a href="#"><i class="fa fa-rss"></i></a>
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-google-plus"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                            </div>
-                            <p>Lorem Ipsum is simply dummy text of the printing typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6">
-                    <div class="team-member">
-                        <div class="member-image">
-                            <img src="assets/img/team/member-3.png" alt="">
-                        </div>
-                        <div class="member-info">
-                            <h3 class="subtitle">CAROL ANDERSON</h3>
-                            <p class="text-muted">Designer</p>
-                            <div class="member-social">
-                                <a href="#"><i class="fa fa-rss"></i></a>
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-google-plus"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-hover">
-                            <h3 class="subtitle">CAROL ANDERSON</h3>
-                            <p class="text-muted">Designer</p>
-                            <div class="member-social">
-                                <a href="#"><i class="fa fa-rss"></i></a>
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-google-plus"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                            </div>
-                            <p>Lorem Ipsum is simply dummy text of the printing typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6">
-                    <div class="team-member">
-                        <div class="member-image">
-                            <img src="assets/img/team/member-4.png" alt="">
-                        </div>
-                        <div class="member-info">
-                            <h3 class="subtitle">Kristen Craft </h3>
-                            <p class="text-muted">Markater</p>
-                            <div class="member-social">
-                                <a href="#"><i class="fa fa-rss"></i></a>
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-google-plus"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-hover">
-                            <h3 class="subtitle">Kristen Craft </h3>
-                            <p class="text-muted">Markater</p>
-                            <div class="member-social">
-                                <a href="#"><i class="fa fa-rss"></i></a>
-                                <a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-twitter"></i></a>
-                                <a href="#"><i class="fa fa-google-plus"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                            </div>
-                            <p>Lorem Ipsum is simply dummy text of the printing typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
     <!-- Team area ends -->
 
-    <!-- Testimonial area starts -->
-    <section id="testimonial" class="testimonial-area section-big">
-        <div class="container">
-
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <div class="section-title">
-                        <h2>Client <span>Testimonial</span></h2>
-                        <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="testimonial-list">
-
-                    <!-- Testimonial item -->
-                    <div class="single-testimonial">
-                        <img src="assets/img/testimonial/1.jpg" alt="">
-                        <i class="fa fa-quote-left"></i>
-                        <p>Locavore pork belly scenester, pinterest chillwave microdosing waistcoat pop-up. Flexitarian +1 cliche artisan, biodiesel mixtape tacos art party mustache cardigan kitsch squid disrupt. Truffaut deep v kitsch salvia sriracha. </p>
-                        <h4>John Doe</h4>
-                        <p class="desg">Founder of Ambidextrousbd</p>
-                    </div>
-
-                    <!-- Testimonial item -->
-                    <div class="single-testimonial">
-                        <img src="assets/img/testimonial/2.jpg" alt="">
-                        <i class="fa fa-quote-left"></i>
-                        <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod tempor sunt aliqua put.</p>
-                        <h4>John doe</h4>
-                        <p class="desg">Designer in Dess</p>
-                    </div>
-
-                    <!-- Testimonial item -->
-                    <div class="single-testimonial">
-                        <img src="assets/img/testimonial/3.jpg" alt="">
-                        <i class="fa fa-quote-left"></i>
-                        <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
-                        <h4>John doe</h4>
-                        <p class="desg">Founder of Ambi</p>
-                    </div>
-
-                </div>
-            </div>
-
-        </div>
-    </section>
-    <!-- Testimonial area ends -->
-
-
-    <!-- News area starts -->
-    <section id="news" class="news-area section-big">
-        <div class="container">
-
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="section-title text-center">
-                        <h2>Our Latest News</h2>
-                        <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-
-                <!-- News item 1 -->
-                <div class="col-md-4 col-sm-6">
-                    <div class="single-news">
-                        <div class="news-image">
-                            <a href="#news-modal-1" data-toggle="modal">
-                                <img src="assets/img/news/1.png" alt="" >
-                            </a>
-                        </div>
-                        <div class="news-content">
-                            <a href="#news-modal-1" data-toggle="modal">
-                                <h3 class="subtitle">Light without hath She'd winged</h3>
-                            </a>
-                            <p class="news-meta text-muted">
-                                <span><i class="fa fa-calendar"></i> 02 Nov 2017 </span>
-                                <span><i class="fa fa-user"></i> Admin</span>
-                                <span><i class="fa fa-comments-o"></i> 200</span>
-                            </p>
-                            <p>Light without hath She'd winged Earth forth signs sixth void great together gathering, had creeping. Firmament whales which greater two wherein likeness light behold light that was.</p>
-                            <a class="btn" href="#news-modal-1" data-toggle="modal">Read More</a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- News item 2 -->
-                <div class="col-md-4 col-sm-6">
-                    <div class="single-news">
-                        <div class="news-image">
-                            <a href="#news-modal-2" data-toggle="modal">
-                                <img src="assets/img/news/2.png" alt="" >
-                            </a>
-                        </div>
-                        <div class="news-content">
-                            <a href="#news-modal-2" data-toggle="modal">
-                                <h3 class="subtitle">Firmament whales which have</h3>
-                            </a>
-                            <p class="news-meta text-muted">
-                                <span><i class="fa fa-calendar"></i> 02 Nov 2017 </span>
-                                <span><i class="fa fa-user"></i> Admin</span>
-                                <span><i class="fa fa-comments-o"></i> 200</span>
-                            </p>
-                            <p>Light without hath She'd winged Earth forth signs sixth void great together gathering, had creeping. Firmament whales which greater two wherein likeness light behold light that was.</p>
-                            <a class="btn" href="#news-modal-2" data-toggle="modal">Read More</a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- News item 3 -->
-                <div class="col-md-4 col-sm-6">
-                    <div class="single-news">
-                        <div class="news-image">
-                            <a href="#news-modal-3" data-toggle="modal">
-                                <img src="assets/img/news/3.png" alt="" >
-                            </a>
-                        </div>
-                        <div class="news-content">
-                            <a href="#news-modal-3" data-toggle="modal">
-                                <h3 class="subtitle">Winged Earth forth signs void</h3>
-                            </a>
-                            <p class="news-meta text-muted">
-                                <span><i class="fa fa-calendar"></i> 02 Nov 2017 </span>
-                                <span><i class="fa fa-user"></i> Admin</span>
-                                <span><i class="fa fa-comments-o"></i> 200</span>
-                            </p>
-                            <p>Light without hath She'd winged Earth forth signs sixth void great together gathering, had creeping. Firmament whales which greater two wherein likeness light behold light that was.</p>
-                            <a class="btn" href="#news-modal-3" data-toggle="modal">Read More</a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-
-
-            <!-- News 1 Modals -->
-            <div class="news-modal modal fade" id="news-modal-1" tabindex="-1" role="dialog" aria-hidden="true">
-                <div class="modal-content">
-                    <div class="close-modal" data-dismiss="modal">
-                        <div class="lr">
-                            <div class="rl">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-8 col-lg-offset-2">
-                                <div class="modal-body">
-
-                                    <img src="assets/img/news/1.png" alt="" >
-
-                                    <p class="news-meta text-muted">
-                                        <span><i class="fa fa-calendar"></i> 02 Nov 2017 </span>
-                                        <span><i class="fa fa-user"></i> Admin</span>
-                                        <span><i class="fa fa-comments-o"></i> 200</span>
-                                    </p>
-
-                                    <h2>Last night we released our latest product</h2>
-
-                                    <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. </p>
-
-                                    <p>Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure? On the other hand.</p>
-
-
-                                    <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- News 2 Modals -->
-            <div class="news-modal modal fade" id="news-modal-2" tabindex="-1" role="dialog" aria-hidden="true">
-                <div class="modal-content">
-                    <div class="close-modal" data-dismiss="modal">
-                        <div class="lr">
-                            <div class="rl">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-8 col-lg-offset-2">
-                                <div class="modal-body">
-
-                                    <img src="assets/img/news/2.png" alt="" >
-
-                                    <p class="news-meta text-muted">
-                                        <span><i class="fa fa-calendar"></i> 02 Nov 2017 </span>
-                                        <span><i class="fa fa-user"></i> Admin</span>
-                                        <span><i class="fa fa-comments-o"></i> 200</span>
-                                    </p>
-
-                                    <h2>Last night we released our latest product</h2>
-
-                                    <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. </p>
-
-                                    <p>Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure? On the other hand.</p>
-
-
-                                    <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- News 3 Modals -->
-            <div class="news-modal modal fade" id="news-modal-3" tabindex="-1" role="dialog" aria-hidden="true">
-                <div class="modal-content">
-                    <div class="close-modal" data-dismiss="modal">
-                        <div class="lr">
-                            <div class="rl">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-8 col-lg-offset-2">
-                                <div class="modal-body">
-
-                                    <img src="assets/img/news/3.png" alt="" >
-
-                                    <p class="news-meta text-muted">
-                                        <span><i class="fa fa-calendar"></i> 02 Nov 2017 </span>
-                                        <span><i class="fa fa-user"></i> Admin</span>
-                                        <span><i class="fa fa-comments-o"></i> 200</span>
-                                    </p>
-
-                                    <h2>Last night we released our latest product</h2>
-
-                                    <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. </p>
-
-                                    <p>Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure? On the other hand.</p>
-
-
-                                    <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-        </div>
-    </section>
-    <!-- News area ends -->
-
-
-    <!-- Video area starts -->
-    <div id="video" class="video-area section-big">
-        <div class="container text-center">
-
-            <div class="video-content">
-                <a class="popup-youtube" href="http://www.youtube.com/watch?v=xtZE3sMv6lg">
-                    <i class="fa fa-play"></i>
-                </a>
-                <h2>Watch This Video</h2>
-            </div>
-
-        </div>
-    </div>
-    <!-- Video area ends -->
-
-
     <!-- Client area starts -->
     <section id="client" class="client-area section-big">
         <div class="container">
-
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="section-title text-center">
-                        <h2>Our Happy <span>Clients</span></h2>
-                        <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
-                    </div>
-                </div>
-            </div>
 
             <!-- client carousel -->
             <div class="owl-client">
@@ -836,49 +461,6 @@
     </section>
     <!-- Client area ends -->
 
-
-    <!-- Subscribe area starts -->
-    <div id="subscribe" class="subscribe-area section-big">
-        <div class="container">
-            <div class="subscribe-box">
-
-                <div class="row">
-                    
-                    <div class="col-md-6">
-                        <h2>SING UP FOR <span>NEWSLETTER</span></h2>
-                        <p>We'll send email notifications everytime we release new Theme.</p>                        
-                    </div>
-
-                    <div class="col-md-6">
-                        <form id="mc-form" class="mc-form">
-                            <div class="newsletter-form">
-
-                                <input type="email" autocomplete="off" id="mc-email" placeholder="Email address" class="form-control">
-
-                                <button class="mc-submit" type="submit"><i class="fa fa-paper-plane"></i></button>                                
-
-                                <div class="clearfix"></div>
-
-                                <!-- mailchimp-alerts Start -->
-                                <div class="mailchimp-alerts">
-                                    <div class="mailchimp-submitting"></div><!-- mailchimp-submitting end -->
-                                    <div class="mailchimp-success"></div><!-- mailchimp-success end -->
-                                    <div class="mailchimp-error"></div><!-- mailchimp-error end -->
-                                </div>
-                                <!-- mailchimp-alerts end -->
-
-
-                            </div>
-                        </form>    
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Subscribe area ends -->
-
-
     <!-- Contact area starts -->
     <section id="contact" class="contact-area section-big">
         <div class="container">
@@ -887,9 +469,6 @@
                 <div class="col-md-12 text-center">
                     <div class="section-title">
                         <h2>GET IN <span>TOUCH</span></h2>
-                        <p>
-                            Morbi accumsan ipsum velit sodales tellus odio tincidunt auctor ornare sed mauris vitae erat consequat auctor eu in elit class.
-                        </p>
                     </div>
                 </div>
             </div>
@@ -971,18 +550,10 @@
     </section>
     <!-- Contact area ends -->
 
-
-    <!-- Google Map starts-->
-    <div id="contactgoogleMap"></div>
-    <!-- Google Map ends -->
-
-
-
     <!-- Footer area starts -->
     <footer class="footer-area">
         <div class="container text-center">
-            <img src="assets/img/big-logo.png" alt="">
-            <p>Locavore pork belly scenester, pinterest chillwave microdosing waistcoat pop-up. Flexitarian +1 cliche artisan, biodiesel mixtape tacos art party mustache cardigan kitsch squid disrupt.</p>
+            <img class="marglogo" src="assets/img/big-logo.png" alt="">
             <ul class="social-links">
                 <li><a href="#"><i class="fa fa-rss"></i></a></li>
                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -996,7 +567,7 @@
     <!-- Footer area ends -->
 
     <div class="copyright-text text-center">
-        <p>&copy; 2016 Copyright Ambidextrousbd</p>
+        <p>&copy; 2019 Copyright Team</p>
     </div>
 
 
